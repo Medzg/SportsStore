@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 12,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.fontFamily": "Fira Code"
+}
